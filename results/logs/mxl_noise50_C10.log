@@ -1,0 +1,3 @@
+$ estimate_mnl_mxl.py --model MXL --dataset noise50 --C 10
+[MXL noise50_C10] converged=True  LL=-6635.53  -> mxl_noise50_C10.csv
+[cost] MXL noise50 C=10: CPU 10.3 s, peak memory 1587 MB

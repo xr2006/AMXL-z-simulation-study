@@ -1,0 +1,15 @@
+$ estimate_amxl.py --form quadratic --dataset noise50 --C 10
+AMXL-quadratic [noise50_C10]: train 1200 drivers x 10 choices, dev 400 drivers x 5 evaluation choices
+  lambda=1e-05:  3 steps, 0 failed drivers,   7.2 s | dev NLL 0.1954, ACC 0.7395
+  lambda=1e-04:  6 steps, 0 failed drivers,  13.3 s | dev NLL 0.1949, ACC 0.7395
+  lambda=1e-03:  6 steps, 0 failed drivers,  12.9 s | dev NLL 0.1933, ACC 0.7465
+  lambda=1e-02:  6 steps, 0 failed drivers,  12.9 s | dev NLL 0.1899, ACC 0.7470
+  lambda=1e-01:  9 steps, 0 failed drivers,  19.2 s | dev NLL 0.1866, ACC 0.7535
+  lambda=1e+00: 12 steps, 0 failed drivers,  24.3 s | dev NLL 0.1869, ACC 0.7525
+  lambda=1e+01: 15 steps, 0 failed drivers,  31.4 s | dev NLL 0.1909, ACC 0.7515
+  lambda=1e+02: 12 steps, 0 failed drivers,  24.3 s | dev NLL 0.1916, ACC 0.7515
+  lambda=1e+03:  6 steps, 0 failed drivers,  12.3 s | dev NLL 0.1936, ACC 0.7485
+  lambda=1e+04:  3 steps, 0 failed drivers,   6.3 s | dev NLL 0.1994, ACC 0.7425
+  lambda=1e+05:  3 steps, 0 failed drivers,   6.4 s | dev NLL 0.2006, ACC 0.7455
+  selected lambda = 1e-01 (dev NLL 0.1866) -> /Users/ryan/Documents/01.Research Projects/13.EV charging station/10.GitHub Repo for Simulation Study/results/estimates/amxl_quadratic
+[cost] AMXL-quadratic noise50 C=10: CPU 171.4 s, peak memory 271 MB

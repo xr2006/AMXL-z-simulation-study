@@ -1,0 +1,10 @@
+{
+ "model": "AMXL-quadratic",
+ "dataset": "noise20",
+ "C": 10,
+ "n_fits": 11,
+ "cpu_s": 178.05,
+ "peak_MB": 225.9,
+ "machine": "Apple M2 Pro (Darwin x86_64)",
+ "python": "3.11.13"
+}

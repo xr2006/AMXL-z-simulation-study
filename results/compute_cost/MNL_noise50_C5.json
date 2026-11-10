@@ -1,0 +1,10 @@
+{
+ "model": "MNL",
+ "dataset": "noise50",
+ "C": 5,
+ "n_fits": 1,
+ "cpu_s": 1.12,
+ "peak_MB": 160.6,
+ "machine": "Apple M2 Pro (Darwin x86_64)",
+ "python": "3.11.13"
+}

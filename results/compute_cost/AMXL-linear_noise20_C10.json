@@ -1,0 +1,10 @@
+{
+ "model": "AMXL-linear",
+ "dataset": "noise20",
+ "C": 10,
+ "n_fits": 11,
+ "cpu_s": 136.67,
+ "peak_MB": 292.7,
+ "machine": "Apple M2 Pro (Darwin x86_64)",
+ "python": "3.11.13"
+}

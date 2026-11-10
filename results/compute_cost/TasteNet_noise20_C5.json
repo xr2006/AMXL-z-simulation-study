@@ -1,0 +1,10 @@
+{
+ "model": "TasteNet",
+ "dataset": "noise20",
+ "C": 5,
+ "n_fits": 90,
+ "cpu_s": 536.41,
+ "peak_MB": 337.1,
+ "machine": "Apple M2 Pro (Darwin x86_64)",
+ "python": "3.11.13"
+}

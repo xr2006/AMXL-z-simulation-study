@@ -1,0 +1,8 @@
+$ generate_data.py
+[sigma = 0.2, train] 1200 drivers x 25 occasions | mean beta TT/POI = [-0.536  0.185], SD = [0.273 0.229]
+[sigma = 0.2, dev  ]  400 drivers x 25 occasions | mean beta TT/POI = [-0.562  0.195], SD = [0.291 0.234]
+[sigma = 0.2, test ]  400 drivers x 25 occasions | mean beta TT/POI = [-0.545  0.201], SD = [0.258 0.238]
+[sigma = 0.5, train] 1200 drivers x 25 occasions | mean beta TT/POI = [-0.536  0.177], SD = [0.377 0.292]
+[sigma = 0.5, dev  ]  400 drivers x 25 occasions | mean beta TT/POI = [-0.556  0.198], SD = [0.385 0.3  ]
+[sigma = 0.5, test ]  400 drivers x 25 occasions | mean beta TT/POI = [-0.551  0.199], SD = [0.353 0.302]
+written -> /Users/ryan/Documents/01.Research Projects/13.EV charging station/10.GitHub Repo for Simulation Study/data

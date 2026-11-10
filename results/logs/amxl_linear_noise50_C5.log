@@ -1,0 +1,15 @@
+$ estimate_amxl.py --form linear --dataset noise50 --C 5
+AMXL-linear [noise50_C5]: train 1200 drivers x 5 choices, dev 400 drivers x 5 evaluation choices
+  lambda=1e-05:  3 steps, 0 failed drivers,   5.5 s | dev NLL 0.2160, ACC 0.7145
+  lambda=1e-04:  7 steps, 0 failed drivers,  12.2 s | dev NLL 0.2142, ACC 0.7190
+  lambda=1e-03:  6 steps, 0 failed drivers,  10.3 s | dev NLL 0.2097, ACC 0.7260
+  lambda=1e-02:  6 steps, 0 failed drivers,  10.1 s | dev NLL 0.2017, ACC 0.7320
+  lambda=1e-01:  9 steps, 0 failed drivers,  15.0 s | dev NLL 0.1950, ACC 0.7420
+  lambda=1e+00:  9 steps, 0 failed drivers,  14.4 s | dev NLL 0.1982, ACC 0.7420
+  lambda=1e+01: 12 steps, 0 failed drivers,  19.4 s | dev NLL 0.2025, ACC 0.7415
+  lambda=1e+02:  9 steps, 0 failed drivers,  14.4 s | dev NLL 0.2026, ACC 0.7405
+  lambda=1e+03:  3 steps, 0 failed drivers,   4.8 s | dev NLL 0.2029, ACC 0.7300
+  lambda=1e+04:  3 steps, 0 failed drivers,   4.7 s | dev NLL 0.2030, ACC 0.7300
+  lambda=1e+05:  3 steps, 0 failed drivers,   4.8 s | dev NLL 0.2035, ACC 0.7315
+  selected lambda = 1e-01 (dev NLL 0.1950) -> /Users/ryan/Documents/01.Research Projects/13.EV charging station/10.GitHub Repo for Simulation Study/results/estimates/amxl_linear
+[cost] AMXL-linear noise50 C=5: CPU 116.4 s, peak memory 307 MB

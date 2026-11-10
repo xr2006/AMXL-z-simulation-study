@@ -1,0 +1,16 @@
+Optimization terminated successfully.
+    Message: The gradients are close to zero
+    Iterations: 9
+    Function evaluations: 10
+Estimation time= 0.1 seconds
+---------------------------------------------------------------------------
+Coefficient              Estimate      Std.Err.         z-val         P>|z|
+---------------------------------------------------------------------------
+TT                     -0.4385297     0.0062745   -69.8909820             0 ***
+POI                     0.1391164     0.0029250    47.5610960             0 ***
+---------------------------------------------------------------------------
+Significance:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Log-Likelihood= -8213.338
+AIC= 16430.675
+BIC= 16445.461

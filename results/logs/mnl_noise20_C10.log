@@ -1,0 +1,3 @@
+$ estimate_mnl_mxl.py --model MNL --dataset noise20 --C 10
+[MNL noise20_C10] converged=True  LL=-6327.25  -> mnl_noise20_C10.csv
+[cost] MNL noise20 C=10: CPU 1.2 s, peak memory 165 MB

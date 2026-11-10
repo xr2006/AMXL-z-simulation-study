@@ -1,0 +1,10 @@
+{
+ "model": "MXL",
+ "dataset": "noise50",
+ "C": 10,
+ "n_fits": 1,
+ "cpu_s": 10.33,
+ "peak_MB": 1586.8,
+ "machine": "Apple M2 Pro (Darwin x86_64)",
+ "python": "3.11.13"
+}

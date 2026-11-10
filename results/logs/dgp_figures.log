@@ -1,0 +1,12 @@
+$ dgp_figures.py
+Table A.2
+  sigma            sample  beta_TT_mean  beta_TT_sd  eta_TT_q025  eta_TT_q975  beta_POI_mean  beta_POI_sd  eta_POI_q025  eta_POI_q975
+ 0.200   Training (1200)        -0.536       0.273       -0.292        0.115          0.185        0.229        -0.089         0.197
+ 0.200 Development (400)        -0.562       0.291       -0.308        0.117          0.195        0.234        -0.085         0.235
+ 0.200        Test (400)        -0.545       0.258       -0.295        0.108          0.201        0.238        -0.087         0.222
+ 0.200        All (2000)        -0.543       0.274       -0.295        0.115          0.190        0.232        -0.088         0.214
+ 0.500   Training (1200)        -0.536       0.377       -0.730        0.288          0.177        0.292        -0.223         0.492
+ 0.500 Development (400)        -0.556       0.385       -0.771        0.293          0.198        0.300        -0.213         0.589
+ 0.500        Test (400)        -0.551       0.353       -0.738        0.270          0.199        0.302        -0.218         0.555
+ 0.500        All (2000)        -0.543       0.374       -0.738        0.287          0.185        0.295        -0.221         0.534
+saved -> /Users/ryan/Documents/01.Research Projects/13.EV charging station/10.GitHub Repo for Simulation Study/results/figures/fig2_*, figA1_*, figA2_*; /Users/ryan/Documents/01.Research Projects/13.EV charging station/10.GitHub Repo for Simulation Study/results/tables/tableA2_true_tastes.*

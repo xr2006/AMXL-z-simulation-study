@@ -1,0 +1,93 @@
+$ estimate_tastenet.py --dataset noise20 --C 5
+[noise20_C5] hidden= 50 wd=0.0001 run=0  NLL train=0.4897 dev=0.4819
+[noise20_C5] hidden= 50 wd=0.0001 run=1  NLL train=0.4869 dev=0.4837
+[noise20_C5] hidden= 50 wd=0.0001 run=2  NLL train=0.4902 dev=0.4835
+[noise20_C5] hidden= 50 wd=0.0001 run=3  NLL train=0.4905 dev=0.4834
+[noise20_C5] hidden= 50 wd=0.0001 run=4  NLL train=0.4897 dev=0.4799
+[noise20_C5] hidden= 50 wd=0.0001 run=5  NLL train=0.4904 dev=0.4809
+[noise20_C5] hidden= 50 wd=0.0001 run=6  NLL train=0.4872 dev=0.4876
+[noise20_C5] hidden= 50 wd=0.0001 run=7  NLL train=0.4894 dev=0.4846
+[noise20_C5] hidden= 50 wd=0.0001 run=8  NLL train=0.4897 dev=0.4821
+[noise20_C5] hidden= 50 wd=0.0001 run=9  NLL train=0.4911 dev=0.4836
+[noise20_C5] hidden= 50 wd=0.001 run=0  NLL train=0.4898 dev=0.4819
+[noise20_C5] hidden= 50 wd=0.001 run=1  NLL train=0.4871 dev=0.4839
+[noise20_C5] hidden= 50 wd=0.001 run=2  NLL train=0.4903 dev=0.4833
+[noise20_C5] hidden= 50 wd=0.001 run=3  NLL train=0.4906 dev=0.4832
+[noise20_C5] hidden= 50 wd=0.001 run=4  NLL train=0.4897 dev=0.4798
+[noise20_C5] hidden= 50 wd=0.001 run=5  NLL train=0.4904 dev=0.4808
+[noise20_C5] hidden= 50 wd=0.001 run=6  NLL train=0.4873 dev=0.4874
+[noise20_C5] hidden= 50 wd=0.001 run=7  NLL train=0.4892 dev=0.4845
+[noise20_C5] hidden= 50 wd=0.001 run=8  NLL train=0.4897 dev=0.4820
+[noise20_C5] hidden= 50 wd=0.001 run=9  NLL train=0.4912 dev=0.4835
+[noise20_C5] hidden= 50 wd=0.01 run=0  NLL train=0.4887 dev=0.4810
+[noise20_C5] hidden= 50 wd=0.01 run=1  NLL train=0.4886 dev=0.4824
+[noise20_C5] hidden= 50 wd=0.01 run=2  NLL train=0.4905 dev=0.4825
+[noise20_C5] hidden= 50 wd=0.01 run=3  NLL train=0.4920 dev=0.4832
+[noise20_C5] hidden= 50 wd=0.01 run=4  NLL train=0.4907 dev=0.4792
+[noise20_C5] hidden= 50 wd=0.01 run=5  NLL train=0.4902 dev=0.4801
+[noise20_C5] hidden= 50 wd=0.01 run=6  NLL train=0.4876 dev=0.4842
+[noise20_C5] hidden= 50 wd=0.01 run=7  NLL train=0.4905 dev=0.4842
+[noise20_C5] hidden= 50 wd=0.01 run=8  NLL train=0.4906 dev=0.4814
+[noise20_C5] hidden= 50 wd=0.01 run=9  NLL train=0.4892 dev=0.4819
+[noise20_C5] hidden=100 wd=0.0001 run=0  NLL train=0.4909 dev=0.4803
+[noise20_C5] hidden=100 wd=0.0001 run=1  NLL train=0.4902 dev=0.4832
+[noise20_C5] hidden=100 wd=0.0001 run=2  NLL train=0.4885 dev=0.4848
+[noise20_C5] hidden=100 wd=0.0001 run=3  NLL train=0.4889 dev=0.4826
+[noise20_C5] hidden=100 wd=0.0001 run=4  NLL train=0.4897 dev=0.4807
+[noise20_C5] hidden=100 wd=0.0001 run=5  NLL train=0.4906 dev=0.4840
+[noise20_C5] hidden=100 wd=0.0001 run=6  NLL train=0.4920 dev=0.4826
+[noise20_C5] hidden=100 wd=0.0001 run=7  NLL train=0.4929 dev=0.4813
+[noise20_C5] hidden=100 wd=0.0001 run=8  NLL train=0.4900 dev=0.4801
+[noise20_C5] hidden=100 wd=0.0001 run=9  NLL train=0.4922 dev=0.4837
+[noise20_C5] hidden=100 wd=0.001 run=0  NLL train=0.4910 dev=0.4802
+[noise20_C5] hidden=100 wd=0.001 run=1  NLL train=0.4903 dev=0.4832
+[noise20_C5] hidden=100 wd=0.001 run=2  NLL train=0.4886 dev=0.4846
+[noise20_C5] hidden=100 wd=0.001 run=3  NLL train=0.4889 dev=0.4826
+[noise20_C5] hidden=100 wd=0.001 run=4  NLL train=0.4881 dev=0.4806
+[noise20_C5] hidden=100 wd=0.001 run=5  NLL train=0.4907 dev=0.4839
+[noise20_C5] hidden=100 wd=0.001 run=6  NLL train=0.4919 dev=0.4823
+[noise20_C5] hidden=100 wd=0.001 run=7  NLL train=0.4929 dev=0.4812
+[noise20_C5] hidden=100 wd=0.001 run=8  NLL train=0.4901 dev=0.4801
+[noise20_C5] hidden=100 wd=0.001 run=9  NLL train=0.4923 dev=0.4835
+[noise20_C5] hidden=100 wd=0.01 run=0  NLL train=0.4900 dev=0.4799
+[noise20_C5] hidden=100 wd=0.01 run=1  NLL train=0.4889 dev=0.4823
+[noise20_C5] hidden=100 wd=0.01 run=2  NLL train=0.4897 dev=0.4831
+[noise20_C5] hidden=100 wd=0.01 run=3  NLL train=0.4876 dev=0.4815
+[noise20_C5] hidden=100 wd=0.01 run=4  NLL train=0.4896 dev=0.4795
+[noise20_C5] hidden=100 wd=0.01 run=5  NLL train=0.4886 dev=0.4826
+[noise20_C5] hidden=100 wd=0.01 run=6  NLL train=0.4889 dev=0.4820
+[noise20_C5] hidden=100 wd=0.01 run=7  NLL train=0.4918 dev=0.4810
+[noise20_C5] hidden=100 wd=0.01 run=8  NLL train=0.4892 dev=0.4797
+[noise20_C5] hidden=100 wd=0.01 run=9  NLL train=0.4910 dev=0.4824
+[noise20_C5] hidden=200 wd=0.0001 run=0  NLL train=0.4908 dev=0.4830
+[noise20_C5] hidden=200 wd=0.0001 run=1  NLL train=0.4882 dev=0.4838
+[noise20_C5] hidden=200 wd=0.0001 run=2  NLL train=0.4912 dev=0.4823
+[noise20_C5] hidden=200 wd=0.0001 run=3  NLL train=0.4919 dev=0.4791
+[noise20_C5] hidden=200 wd=0.0001 run=4  NLL train=0.4889 dev=0.4866
+[noise20_C5] hidden=200 wd=0.0001 run=5  NLL train=0.4912 dev=0.4823
+[noise20_C5] hidden=200 wd=0.0001 run=6  NLL train=0.4882 dev=0.4839
+[noise20_C5] hidden=200 wd=0.0001 run=7  NLL train=0.4889 dev=0.4821
+[noise20_C5] hidden=200 wd=0.0001 run=8  NLL train=0.4866 dev=0.4847
+[noise20_C5] hidden=200 wd=0.0001 run=9  NLL train=0.4909 dev=0.4822
+[noise20_C5] hidden=200 wd=0.001 run=0  NLL train=0.4909 dev=0.4830
+[noise20_C5] hidden=200 wd=0.001 run=1  NLL train=0.4883 dev=0.4837
+[noise20_C5] hidden=200 wd=0.001 run=2  NLL train=0.4912 dev=0.4823
+[noise20_C5] hidden=200 wd=0.001 run=3  NLL train=0.4920 dev=0.4790
+[noise20_C5] hidden=200 wd=0.001 run=4  NLL train=0.4890 dev=0.4865
+[noise20_C5] hidden=200 wd=0.001 run=5  NLL train=0.4912 dev=0.4822
+[noise20_C5] hidden=200 wd=0.001 run=6  NLL train=0.4883 dev=0.4838
+[noise20_C5] hidden=200 wd=0.001 run=7  NLL train=0.4890 dev=0.4821
+[noise20_C5] hidden=200 wd=0.001 run=8  NLL train=0.4867 dev=0.4844
+[noise20_C5] hidden=200 wd=0.001 run=9  NLL train=0.4910 dev=0.4822
+[noise20_C5] hidden=200 wd=0.01 run=0  NLL train=0.4878 dev=0.4818
+[noise20_C5] hidden=200 wd=0.01 run=1  NLL train=0.4893 dev=0.4828
+[noise20_C5] hidden=200 wd=0.01 run=2  NLL train=0.4911 dev=0.4825
+[noise20_C5] hidden=200 wd=0.01 run=3  NLL train=0.4933 dev=0.4792
+[noise20_C5] hidden=200 wd=0.01 run=4  NLL train=0.4900 dev=0.4849
+[noise20_C5] hidden=200 wd=0.01 run=5  NLL train=0.4926 dev=0.4818
+[noise20_C5] hidden=200 wd=0.01 run=6  NLL train=0.4884 dev=0.4826
+[noise20_C5] hidden=200 wd=0.01 run=7  NLL train=0.4879 dev=0.4812
+[noise20_C5] hidden=200 wd=0.01 run=8  NLL train=0.4878 dev=0.4826
+[noise20_C5] hidden=200 wd=0.01 run=9  NLL train=0.4893 dev=0.4813
+[noise20_C5] selected hidden=100 wd=0.01 run=3  dev NLL=0.4815 (cell mean 0.4814)
+[cost] TasteNet noise20 C=5: CPU 536.4 s, peak memory 337 MB

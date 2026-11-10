@@ -1,0 +1,436 @@
+table,sigma,C,model,setting,metric,value
+Table 2,0.2,5,MNL,In-sample,NLL,0.174
+Table 2,0.2,5,MNL,In-sample,ACC,0.782
+Table 2,0.2,5,MNL,In-sample,rho2,0.524
+Table 2,0.2,5,MNL,Out-of-sample (no panel),NLL,0.18
+Table 2,0.2,5,MNL,Out-of-sample (no panel),ACC,0.774
+Table 2,0.2,5,MNL,Out-of-sample (no panel),rho2,0.51
+Table 2,0.2,5,MNL,Out-of-sample (panel),NLL,0.18
+Table 2,0.2,5,MNL,Out-of-sample (panel),ACC,0.774
+Table 2,0.2,5,MNL,Out-of-sample (panel),rho2,0.51
+Table 2,0.2,5,MXL,In-sample,NLL,0.169
+Table 2,0.2,5,MXL,In-sample,ACC,0.786
+Table 2,0.2,5,MXL,In-sample,rho2,0.539
+Table 2,0.2,5,MXL,Out-of-sample (no panel),NLL,0.178
+Table 2,0.2,5,MXL,Out-of-sample (no panel),ACC,0.774
+Table 2,0.2,5,MXL,Out-of-sample (no panel),rho2,0.514
+Table 2,0.2,5,MXL,Out-of-sample (panel),NLL,0.173
+Table 2,0.2,5,MXL,Out-of-sample (panel),ACC,0.782
+Table 2,0.2,5,MXL,Out-of-sample (panel),rho2,0.528
+Table 2,0.2,5,TasteNet,In-sample,NLL,0.164
+Table 2,0.2,5,TasteNet,In-sample,ACC,0.795
+Table 2,0.2,5,TasteNet,In-sample,rho2,0.552
+Table 2,0.2,5,TasteNet,Out-of-sample (no panel),NLL,0.169
+Table 2,0.2,5,TasteNet,Out-of-sample (no panel),ACC,0.785
+Table 2,0.2,5,TasteNet,Out-of-sample (no panel),rho2,0.539
+Table 2,0.2,5,TasteNet,Out-of-sample (panel),NLL,0.169
+Table 2,0.2,5,TasteNet,Out-of-sample (panel),ACC,0.785
+Table 2,0.2,5,TasteNet,Out-of-sample (panel),rho2,0.539
+Table 2,0.2,5,AMXL-linear,In-sample,NLL,0.17
+Table 2,0.2,5,AMXL-linear,In-sample,ACC,0.783
+Table 2,0.2,5,AMXL-linear,In-sample,rho2,0.537
+Table 2,0.2,5,AMXL-linear,Out-of-sample (no panel),NLL,0.179
+Table 2,0.2,5,AMXL-linear,Out-of-sample (no panel),ACC,0.775
+Table 2,0.2,5,AMXL-linear,Out-of-sample (no panel),rho2,0.513
+Table 2,0.2,5,AMXL-linear,Out-of-sample (panel),NLL,0.175
+Table 2,0.2,5,AMXL-linear,Out-of-sample (panel),ACC,0.781
+Table 2,0.2,5,AMXL-linear,Out-of-sample (panel),rho2,0.523
+Table 2,0.2,5,AMXL-quadratic,In-sample,NLL,0.163
+Table 2,0.2,5,AMXL-quadratic,In-sample,ACC,0.794
+Table 2,0.2,5,AMXL-quadratic,In-sample,rho2,0.556
+Table 2,0.2,5,AMXL-quadratic,Out-of-sample (no panel),NLL,0.169
+Table 2,0.2,5,AMXL-quadratic,Out-of-sample (no panel),ACC,0.787
+Table 2,0.2,5,AMXL-quadratic,Out-of-sample (no panel),rho2,0.539
+Table 2,0.2,5,AMXL-quadratic,Out-of-sample (panel),NLL,0.167
+Table 2,0.2,5,AMXL-quadratic,Out-of-sample (panel),ACC,0.79
+Table 2,0.2,5,AMXL-quadratic,Out-of-sample (panel),rho2,0.543
+Table 2,0.2,5,True tastes,In-sample,NLL,0.153
+Table 2,0.2,5,True tastes,In-sample,ACC,0.81
+Table 2,0.2,5,True tastes,In-sample,rho2,0.583
+Table 2,0.2,5,True tastes,Out-of-sample (no panel),NLL,0.155
+Table 2,0.2,5,True tastes,Out-of-sample (no panel),ACC,0.809
+Table 2,0.2,5,True tastes,Out-of-sample (no panel),rho2,0.578
+Table 2,0.2,5,True tastes,Out-of-sample (panel),NLL,0.155
+Table 2,0.2,5,True tastes,Out-of-sample (panel),ACC,0.809
+Table 2,0.2,5,True tastes,Out-of-sample (panel),rho2,0.578
+Table 2,0.2,10,MNL,In-sample,NLL,0.174
+Table 2,0.2,10,MNL,In-sample,ACC,0.782
+Table 2,0.2,10,MNL,In-sample,rho2,0.524
+Table 2,0.2,10,MNL,Out-of-sample (no panel),NLL,0.18
+Table 2,0.2,10,MNL,Out-of-sample (no panel),ACC,0.774
+Table 2,0.2,10,MNL,Out-of-sample (no panel),rho2,0.508
+Table 2,0.2,10,MNL,Out-of-sample (panel),NLL,0.18
+Table 2,0.2,10,MNL,Out-of-sample (panel),ACC,0.774
+Table 2,0.2,10,MNL,Out-of-sample (panel),rho2,0.508
+Table 2,0.2,10,MXL,In-sample,NLL,0.166
+Table 2,0.2,10,MXL,In-sample,ACC,0.787
+Table 2,0.2,10,MXL,In-sample,rho2,0.546
+Table 2,0.2,10,MXL,Out-of-sample (no panel),NLL,0.179
+Table 2,0.2,10,MXL,Out-of-sample (no panel),ACC,0.776
+Table 2,0.2,10,MXL,Out-of-sample (no panel),rho2,0.512
+Table 2,0.2,10,MXL,Out-of-sample (panel),NLL,0.171
+Table 2,0.2,10,MXL,Out-of-sample (panel),ACC,0.785
+Table 2,0.2,10,MXL,Out-of-sample (panel),rho2,0.533
+Table 2,0.2,10,TasteNet,In-sample,NLL,0.164
+Table 2,0.2,10,TasteNet,In-sample,ACC,0.796
+Table 2,0.2,10,TasteNet,In-sample,rho2,0.552
+Table 2,0.2,10,TasteNet,Out-of-sample (no panel),NLL,0.169
+Table 2,0.2,10,TasteNet,Out-of-sample (no panel),ACC,0.786
+Table 2,0.2,10,TasteNet,Out-of-sample (no panel),rho2,0.538
+Table 2,0.2,10,TasteNet,Out-of-sample (panel),NLL,0.169
+Table 2,0.2,10,TasteNet,Out-of-sample (panel),ACC,0.786
+Table 2,0.2,10,TasteNet,Out-of-sample (panel),rho2,0.538
+Table 2,0.2,10,AMXL-linear,In-sample,NLL,0.166
+Table 2,0.2,10,AMXL-linear,In-sample,ACC,0.788
+Table 2,0.2,10,AMXL-linear,In-sample,rho2,0.546
+Table 2,0.2,10,AMXL-linear,Out-of-sample (no panel),NLL,0.179
+Table 2,0.2,10,AMXL-linear,Out-of-sample (no panel),ACC,0.776
+Table 2,0.2,10,AMXL-linear,Out-of-sample (no panel),rho2,0.512
+Table 2,0.2,10,AMXL-linear,Out-of-sample (panel),NLL,0.171
+Table 2,0.2,10,AMXL-linear,Out-of-sample (panel),ACC,0.79
+Table 2,0.2,10,AMXL-linear,Out-of-sample (panel),rho2,0.532
+Table 2,0.2,10,AMXL-quadratic,In-sample,NLL,0.161
+Table 2,0.2,10,AMXL-quadratic,In-sample,ACC,0.795
+Table 2,0.2,10,AMXL-quadratic,In-sample,rho2,0.56
+Table 2,0.2,10,AMXL-quadratic,Out-of-sample (no panel),NLL,0.169
+Table 2,0.2,10,AMXL-quadratic,Out-of-sample (no panel),ACC,0.787
+Table 2,0.2,10,AMXL-quadratic,Out-of-sample (no panel),rho2,0.538
+Table 2,0.2,10,AMXL-quadratic,Out-of-sample (panel),NLL,0.166
+Table 2,0.2,10,AMXL-quadratic,Out-of-sample (panel),ACC,0.792
+Table 2,0.2,10,AMXL-quadratic,Out-of-sample (panel),rho2,0.547
+Table 2,0.2,10,True tastes,In-sample,NLL,0.153
+Table 2,0.2,10,True tastes,In-sample,ACC,0.81
+Table 2,0.2,10,True tastes,In-sample,rho2,0.583
+Table 2,0.2,10,True tastes,Out-of-sample (no panel),NLL,0.155
+Table 2,0.2,10,True tastes,Out-of-sample (no panel),ACC,0.809
+Table 2,0.2,10,True tastes,Out-of-sample (no panel),rho2,0.578
+Table 2,0.2,10,True tastes,Out-of-sample (panel),NLL,0.155
+Table 2,0.2,10,True tastes,Out-of-sample (panel),ACC,0.809
+Table 2,0.2,10,True tastes,Out-of-sample (panel),rho2,0.578
+Table 2,0.5,5,MNL,In-sample,NLL,0.202
+Table 2,0.5,5,MNL,In-sample,ACC,0.743
+Table 2,0.5,5,MNL,In-sample,rho2,0.447
+Table 2,0.5,5,MNL,Out-of-sample (no panel),NLL,0.22
+Table 2,0.5,5,MNL,Out-of-sample (no panel),ACC,0.728
+Table 2,0.5,5,MNL,Out-of-sample (no panel),rho2,0.399
+Table 2,0.5,5,MNL,Out-of-sample (panel),NLL,0.22
+Table 2,0.5,5,MNL,Out-of-sample (panel),ACC,0.728
+Table 2,0.5,5,MNL,Out-of-sample (panel),rho2,0.399
+Table 2,0.5,5,MXL,In-sample,NLL,0.176
+Table 2,0.5,5,MXL,In-sample,ACC,0.771
+Table 2,0.5,5,MXL,In-sample,rho2,0.52
+Table 2,0.5,5,MXL,Out-of-sample (no panel),NLL,0.209
+Table 2,0.5,5,MXL,Out-of-sample (no panel),ACC,0.728
+Table 2,0.5,5,MXL,Out-of-sample (no panel),rho2,0.43
+Table 2,0.5,5,MXL,Out-of-sample (panel),NLL,0.186
+Table 2,0.5,5,MXL,Out-of-sample (panel),ACC,0.751
+Table 2,0.5,5,MXL,Out-of-sample (panel),rho2,0.493
+Table 2,0.5,5,TasteNet,In-sample,NLL,0.193
+Table 2,0.5,5,TasteNet,In-sample,ACC,0.756
+Table 2,0.5,5,TasteNet,In-sample,rho2,0.473
+Table 2,0.5,5,TasteNet,Out-of-sample (no panel),NLL,0.21
+Table 2,0.5,5,TasteNet,Out-of-sample (no panel),ACC,0.741
+Table 2,0.5,5,TasteNet,Out-of-sample (no panel),rho2,0.427
+Table 2,0.5,5,TasteNet,Out-of-sample (panel),NLL,0.21
+Table 2,0.5,5,TasteNet,Out-of-sample (panel),ACC,0.741
+Table 2,0.5,5,TasteNet,Out-of-sample (panel),rho2,0.427
+Table 2,0.5,5,AMXL-linear,In-sample,NLL,0.177
+Table 2,0.5,5,AMXL-linear,In-sample,ACC,0.77
+Table 2,0.5,5,AMXL-linear,In-sample,rho2,0.517
+Table 2,0.5,5,AMXL-linear,Out-of-sample (no panel),NLL,0.208
+Table 2,0.5,5,AMXL-linear,Out-of-sample (no panel),ACC,0.728
+Table 2,0.5,5,AMXL-linear,Out-of-sample (no panel),rho2,0.432
+Table 2,0.5,5,AMXL-linear,Out-of-sample (panel),NLL,0.185
+Table 2,0.5,5,AMXL-linear,Out-of-sample (panel),ACC,0.75
+Table 2,0.5,5,AMXL-linear,Out-of-sample (panel),rho2,0.494
+Table 2,0.5,5,AMXL-quadratic,In-sample,NLL,0.175
+Table 2,0.5,5,AMXL-quadratic,In-sample,ACC,0.773
+Table 2,0.5,5,AMXL-quadratic,In-sample,rho2,0.523
+Table 2,0.5,5,AMXL-quadratic,Out-of-sample (no panel),NLL,0.2
+Table 2,0.5,5,AMXL-quadratic,Out-of-sample (no panel),ACC,0.733
+Table 2,0.5,5,AMXL-quadratic,Out-of-sample (no panel),rho2,0.455
+Table 2,0.5,5,AMXL-quadratic,Out-of-sample (panel),NLL,0.182
+Table 2,0.5,5,AMXL-quadratic,Out-of-sample (panel),ACC,0.753
+Table 2,0.5,5,AMXL-quadratic,Out-of-sample (panel),rho2,0.502
+Table 2,0.5,5,True tastes,In-sample,NLL,0.148
+Table 2,0.5,5,True tastes,In-sample,ACC,0.812
+Table 2,0.5,5,True tastes,In-sample,rho2,0.596
+Table 2,0.5,5,True tastes,Out-of-sample (no panel),NLL,0.147
+Table 2,0.5,5,True tastes,Out-of-sample (no panel),ACC,0.818
+Table 2,0.5,5,True tastes,Out-of-sample (no panel),rho2,0.597
+Table 2,0.5,5,True tastes,Out-of-sample (panel),NLL,0.147
+Table 2,0.5,5,True tastes,Out-of-sample (panel),ACC,0.818
+Table 2,0.5,5,True tastes,Out-of-sample (panel),rho2,0.597
+Table 2,0.5,10,MNL,In-sample,NLL,0.202
+Table 2,0.5,10,MNL,In-sample,ACC,0.743
+Table 2,0.5,10,MNL,In-sample,rho2,0.448
+Table 2,0.5,10,MNL,Out-of-sample (no panel),NLL,0.22
+Table 2,0.5,10,MNL,Out-of-sample (no panel),ACC,0.727
+Table 2,0.5,10,MNL,Out-of-sample (no panel),rho2,0.398
+Table 2,0.5,10,MNL,Out-of-sample (panel),NLL,0.22
+Table 2,0.5,10,MNL,Out-of-sample (panel),ACC,0.727
+Table 2,0.5,10,MNL,Out-of-sample (panel),rho2,0.398
+Table 2,0.5,10,MXL,In-sample,NLL,0.168
+Table 2,0.5,10,MXL,In-sample,ACC,0.784
+Table 2,0.5,10,MXL,In-sample,rho2,0.542
+Table 2,0.5,10,MXL,Out-of-sample (no panel),NLL,0.208
+Table 2,0.5,10,MXL,Out-of-sample (no panel),ACC,0.729
+Table 2,0.5,10,MXL,Out-of-sample (no panel),rho2,0.431
+Table 2,0.5,10,MXL,Out-of-sample (panel),NLL,0.175
+Table 2,0.5,10,MXL,Out-of-sample (panel),ACC,0.768
+Table 2,0.5,10,MXL,Out-of-sample (panel),rho2,0.523
+Table 2,0.5,10,TasteNet,In-sample,NLL,0.193
+Table 2,0.5,10,TasteNet,In-sample,ACC,0.758
+Table 2,0.5,10,TasteNet,In-sample,rho2,0.474
+Table 2,0.5,10,TasteNet,Out-of-sample (no panel),NLL,0.209
+Table 2,0.5,10,TasteNet,Out-of-sample (no panel),ACC,0.74
+Table 2,0.5,10,TasteNet,Out-of-sample (no panel),rho2,0.43
+Table 2,0.5,10,TasteNet,Out-of-sample (panel),NLL,0.209
+Table 2,0.5,10,TasteNet,Out-of-sample (panel),ACC,0.74
+Table 2,0.5,10,TasteNet,Out-of-sample (panel),rho2,0.43
+Table 2,0.5,10,AMXL-linear,In-sample,NLL,0.168
+Table 2,0.5,10,AMXL-linear,In-sample,ACC,0.784
+Table 2,0.5,10,AMXL-linear,In-sample,rho2,0.541
+Table 2,0.5,10,AMXL-linear,Out-of-sample (no panel),NLL,0.208
+Table 2,0.5,10,AMXL-linear,Out-of-sample (no panel),ACC,0.727
+Table 2,0.5,10,AMXL-linear,Out-of-sample (no panel),rho2,0.433
+Table 2,0.5,10,AMXL-linear,Out-of-sample (panel),NLL,0.173
+Table 2,0.5,10,AMXL-linear,Out-of-sample (panel),ACC,0.772
+Table 2,0.5,10,AMXL-linear,Out-of-sample (panel),rho2,0.529
+Table 2,0.5,10,AMXL-quadratic,In-sample,NLL,0.166
+Table 2,0.5,10,AMXL-quadratic,In-sample,ACC,0.787
+Table 2,0.5,10,AMXL-quadratic,In-sample,rho2,0.546
+Table 2,0.5,10,AMXL-quadratic,Out-of-sample (no panel),NLL,0.199
+Table 2,0.5,10,AMXL-quadratic,Out-of-sample (no panel),ACC,0.736
+Table 2,0.5,10,AMXL-quadratic,Out-of-sample (no panel),rho2,0.456
+Table 2,0.5,10,AMXL-quadratic,Out-of-sample (panel),NLL,0.17
+Table 2,0.5,10,AMXL-quadratic,Out-of-sample (panel),ACC,0.779
+Table 2,0.5,10,AMXL-quadratic,Out-of-sample (panel),rho2,0.535
+Table 2,0.5,10,True tastes,In-sample,NLL,0.148
+Table 2,0.5,10,True tastes,In-sample,ACC,0.812
+Table 2,0.5,10,True tastes,In-sample,rho2,0.596
+Table 2,0.5,10,True tastes,Out-of-sample (no panel),NLL,0.147
+Table 2,0.5,10,True tastes,Out-of-sample (no panel),ACC,0.818
+Table 2,0.5,10,True tastes,Out-of-sample (no panel),rho2,0.597
+Table 2,0.5,10,True tastes,Out-of-sample (panel),NLL,0.147
+Table 2,0.5,10,True tastes,Out-of-sample (panel),ACC,0.818
+Table 2,0.5,10,True tastes,Out-of-sample (panel),rho2,0.597
+Table 3,0.2,5,MNL,In-sample,RMSE_TT,0.143
+Table 3,0.2,5,MNL,In-sample,RMSE_POI,0.123
+Table 3,0.2,5,MNL,Out-of-sample (no panel),RMSE_TT,0.143
+Table 3,0.2,5,MNL,Out-of-sample (no panel),RMSE_POI,0.129
+Table 3,0.2,5,MNL,Out-of-sample (panel),RMSE_TT,0.143
+Table 3,0.2,5,MNL,Out-of-sample (panel),RMSE_POI,0.129
+Table 3,0.2,5,MXL,In-sample,RMSE_TT,0.131
+Table 3,0.2,5,MXL,In-sample,RMSE_POI,0.104
+Table 3,0.2,5,MXL,Out-of-sample (no panel),RMSE_TT,0.142
+Table 3,0.2,5,MXL,Out-of-sample (no panel),RMSE_POI,0.124
+Table 3,0.2,5,MXL,Out-of-sample (panel),RMSE_TT,0.133
+Table 3,0.2,5,MXL,Out-of-sample (panel),RMSE_POI,0.106
+Table 3,0.2,5,TasteNet,In-sample,RMSE_TT,0.121
+Table 3,0.2,5,TasteNet,In-sample,RMSE_POI,0.08
+Table 3,0.2,5,TasteNet,Out-of-sample (no panel),RMSE_TT,0.125
+Table 3,0.2,5,TasteNet,Out-of-sample (no panel),RMSE_POI,0.085
+Table 3,0.2,5,TasteNet,Out-of-sample (panel),RMSE_TT,0.125
+Table 3,0.2,5,TasteNet,Out-of-sample (panel),RMSE_POI,0.085
+Table 3,0.2,5,AMXL-linear,In-sample,RMSE_TT,0.131
+Table 3,0.2,5,AMXL-linear,In-sample,RMSE_POI,0.111
+Table 3,0.2,5,AMXL-linear,Out-of-sample (no panel),RMSE_TT,0.141
+Table 3,0.2,5,AMXL-linear,Out-of-sample (no panel),RMSE_POI,0.126
+Table 3,0.2,5,AMXL-linear,Out-of-sample (panel),RMSE_TT,0.132
+Table 3,0.2,5,AMXL-linear,Out-of-sample (panel),RMSE_POI,0.115
+Table 3,0.2,5,AMXL-quadratic,In-sample,RMSE_TT,0.111
+Table 3,0.2,5,AMXL-quadratic,In-sample,RMSE_POI,0.076
+Table 3,0.2,5,AMXL-quadratic,Out-of-sample (no panel),RMSE_TT,0.122
+Table 3,0.2,5,AMXL-quadratic,Out-of-sample (no panel),RMSE_POI,0.087
+Table 3,0.2,5,AMXL-quadratic,Out-of-sample (panel),RMSE_TT,0.116
+Table 3,0.2,5,AMXL-quadratic,Out-of-sample (panel),RMSE_POI,0.08
+Table 3,0.2,10,MNL,In-sample,RMSE_TT,0.143
+Table 3,0.2,10,MNL,In-sample,RMSE_POI,0.125
+Table 3,0.2,10,MNL,Out-of-sample (no panel),RMSE_TT,0.144
+Table 3,0.2,10,MNL,Out-of-sample (no panel),RMSE_POI,0.132
+Table 3,0.2,10,MNL,Out-of-sample (panel),RMSE_TT,0.144
+Table 3,0.2,10,MNL,Out-of-sample (panel),RMSE_POI,0.132
+Table 3,0.2,10,MXL,In-sample,RMSE_TT,0.128
+Table 3,0.2,10,MXL,In-sample,RMSE_POI,0.093
+Table 3,0.2,10,MXL,Out-of-sample (no panel),RMSE_TT,0.147
+Table 3,0.2,10,MXL,Out-of-sample (no panel),RMSE_POI,0.125
+Table 3,0.2,10,MXL,Out-of-sample (panel),RMSE_TT,0.129
+Table 3,0.2,10,MXL,Out-of-sample (panel),RMSE_POI,0.097
+Table 3,0.2,10,TasteNet,In-sample,RMSE_TT,0.118
+Table 3,0.2,10,TasteNet,In-sample,RMSE_POI,0.082
+Table 3,0.2,10,TasteNet,Out-of-sample (no panel),RMSE_TT,0.124
+Table 3,0.2,10,TasteNet,Out-of-sample (no panel),RMSE_POI,0.088
+Table 3,0.2,10,TasteNet,Out-of-sample (panel),RMSE_TT,0.124
+Table 3,0.2,10,TasteNet,Out-of-sample (panel),RMSE_POI,0.088
+Table 3,0.2,10,AMXL-linear,In-sample,RMSE_TT,0.123
+Table 3,0.2,10,AMXL-linear,In-sample,RMSE_POI,0.098
+Table 3,0.2,10,AMXL-linear,Out-of-sample (no panel),RMSE_TT,0.144
+Table 3,0.2,10,AMXL-linear,Out-of-sample (no panel),RMSE_POI,0.127
+Table 3,0.2,10,AMXL-linear,Out-of-sample (panel),RMSE_TT,0.123
+Table 3,0.2,10,AMXL-linear,Out-of-sample (panel),RMSE_POI,0.103
+Table 3,0.2,10,AMXL-quadratic,In-sample,RMSE_TT,0.108
+Table 3,0.2,10,AMXL-quadratic,In-sample,RMSE_POI,0.067
+Table 3,0.2,10,AMXL-quadratic,Out-of-sample (no panel),RMSE_TT,0.122
+Table 3,0.2,10,AMXL-quadratic,Out-of-sample (no panel),RMSE_POI,0.086
+Table 3,0.2,10,AMXL-quadratic,Out-of-sample (panel),RMSE_TT,0.111
+Table 3,0.2,10,AMXL-quadratic,Out-of-sample (panel),RMSE_POI,0.073
+Table 3,0.5,5,MNL,In-sample,RMSE_TT,0.307
+Table 3,0.5,5,MNL,In-sample,RMSE_POI,0.222
+Table 3,0.5,5,MNL,Out-of-sample (no panel),RMSE_TT,0.308
+Table 3,0.5,5,MNL,Out-of-sample (no panel),RMSE_POI,0.235
+Table 3,0.5,5,MNL,Out-of-sample (panel),RMSE_TT,0.308
+Table 3,0.5,5,MNL,Out-of-sample (panel),RMSE_POI,0.235
+Table 3,0.5,5,MXL,In-sample,RMSE_TT,0.253
+Table 3,0.5,5,MXL,In-sample,RMSE_POI,0.156
+Table 3,0.5,5,MXL,Out-of-sample (no panel),RMSE_TT,0.301
+Table 3,0.5,5,MXL,Out-of-sample (no panel),RMSE_POI,0.225
+Table 3,0.5,5,MXL,Out-of-sample (panel),RMSE_TT,0.255
+Table 3,0.5,5,MXL,Out-of-sample (panel),RMSE_POI,0.166
+Table 3,0.5,5,TasteNet,In-sample,RMSE_TT,0.297
+Table 3,0.5,5,TasteNet,In-sample,RMSE_POI,0.199
+Table 3,0.5,5,TasteNet,Out-of-sample (no panel),RMSE_TT,0.303
+Table 3,0.5,5,TasteNet,Out-of-sample (no panel),RMSE_POI,0.212
+Table 3,0.5,5,TasteNet,Out-of-sample (panel),RMSE_TT,0.303
+Table 3,0.5,5,TasteNet,Out-of-sample (panel),RMSE_POI,0.212
+Table 3,0.5,5,AMXL-linear,In-sample,RMSE_TT,0.257
+Table 3,0.5,5,AMXL-linear,In-sample,RMSE_POI,0.156
+Table 3,0.5,5,AMXL-linear,Out-of-sample (no panel),RMSE_TT,0.302
+Table 3,0.5,5,AMXL-linear,Out-of-sample (no panel),RMSE_POI,0.225
+Table 3,0.5,5,AMXL-linear,Out-of-sample (panel),RMSE_TT,0.256
+Table 3,0.5,5,AMXL-linear,Out-of-sample (panel),RMSE_POI,0.165
+Table 3,0.5,5,AMXL-quadratic,In-sample,RMSE_TT,0.252
+Table 3,0.5,5,AMXL-quadratic,In-sample,RMSE_POI,0.148
+Table 3,0.5,5,AMXL-quadratic,Out-of-sample (no panel),RMSE_TT,0.293
+Table 3,0.5,5,AMXL-quadratic,Out-of-sample (no panel),RMSE_POI,0.209
+Table 3,0.5,5,AMXL-quadratic,Out-of-sample (panel),RMSE_TT,0.255
+Table 3,0.5,5,AMXL-quadratic,Out-of-sample (panel),RMSE_POI,0.16
+Table 3,0.5,10,MNL,In-sample,RMSE_TT,0.308
+Table 3,0.5,10,MNL,In-sample,RMSE_POI,0.223
+Table 3,0.5,10,MNL,Out-of-sample (no panel),RMSE_TT,0.309
+Table 3,0.5,10,MNL,Out-of-sample (no panel),RMSE_POI,0.236
+Table 3,0.5,10,MNL,Out-of-sample (panel),RMSE_TT,0.309
+Table 3,0.5,10,MNL,Out-of-sample (panel),RMSE_POI,0.236
+Table 3,0.5,10,MXL,In-sample,RMSE_TT,0.225
+Table 3,0.5,10,MXL,In-sample,RMSE_POI,0.129
+Table 3,0.5,10,MXL,Out-of-sample (no panel),RMSE_TT,0.301
+Table 3,0.5,10,MXL,Out-of-sample (no panel),RMSE_POI,0.225
+Table 3,0.5,10,MXL,Out-of-sample (panel),RMSE_TT,0.226
+Table 3,0.5,10,MXL,Out-of-sample (panel),RMSE_POI,0.139
+Table 3,0.5,10,TasteNet,In-sample,RMSE_TT,0.297
+Table 3,0.5,10,TasteNet,In-sample,RMSE_POI,0.197
+Table 3,0.5,10,TasteNet,Out-of-sample (no panel),RMSE_TT,0.301
+Table 3,0.5,10,TasteNet,Out-of-sample (no panel),RMSE_POI,0.211
+Table 3,0.5,10,TasteNet,Out-of-sample (panel),RMSE_TT,0.301
+Table 3,0.5,10,TasteNet,Out-of-sample (panel),RMSE_POI,0.211
+Table 3,0.5,10,AMXL-linear,In-sample,RMSE_TT,0.229
+Table 3,0.5,10,AMXL-linear,In-sample,RMSE_POI,0.124
+Table 3,0.5,10,AMXL-linear,Out-of-sample (no panel),RMSE_TT,0.304
+Table 3,0.5,10,AMXL-linear,Out-of-sample (no panel),RMSE_POI,0.225
+Table 3,0.5,10,AMXL-linear,Out-of-sample (panel),RMSE_TT,0.227
+Table 3,0.5,10,AMXL-linear,Out-of-sample (panel),RMSE_POI,0.131
+Table 3,0.5,10,AMXL-quadratic,In-sample,RMSE_TT,0.224
+Table 3,0.5,10,AMXL-quadratic,In-sample,RMSE_POI,0.118
+Table 3,0.5,10,AMXL-quadratic,Out-of-sample (no panel),RMSE_TT,0.293
+Table 3,0.5,10,AMXL-quadratic,Out-of-sample (no panel),RMSE_POI,0.209
+Table 3,0.5,10,AMXL-quadratic,Out-of-sample (panel),RMSE_TT,0.228
+Table 3,0.5,10,AMXL-quadratic,Out-of-sample (panel),RMSE_POI,0.126
+Table 4,0.2,5,MNL,,cpu_s,3.0
+Table 4,0.2,10,MNL,,cpu_s,2.9
+Table 4,0.5,5,MNL,,cpu_s,2.8
+Table 4,0.5,10,MNL,,cpu_s,2.8
+Table 4,,5,MNL,,peak_MB,226.0
+Table 4,,10,MNL,,peak_MB,233.0
+Table 4,,,MNL,,fits,1.0
+Table 4,0.2,5,MXL,,cpu_s,5.6
+Table 4,0.2,10,MXL,,cpu_s,8.7
+Table 4,0.5,5,MXL,,cpu_s,6.8
+Table 4,0.5,10,MXL,,cpu_s,12.3
+Table 4,,5,MXL,,peak_MB,1099.0
+Table 4,,10,MXL,,peak_MB,1833.0
+Table 4,,,MXL,,fits,1.0
+Table 4,0.2,5,TasteNet,,cpu_s,525.0
+Table 4,0.2,10,TasteNet,,cpu_s,869.0
+Table 4,0.5,5,TasteNet,,cpu_s,425.0
+Table 4,0.5,10,TasteNet,,cpu_s,630.0
+Table 4,,5,TasteNet,,peak_MB,465.0
+Table 4,,10,TasteNet,,peak_MB,462.0
+Table 4,,,TasteNet,,fits,90.0
+Table 4,0.2,5,AMXL-linear,,cpu_s,133.0
+Table 4,0.2,10,AMXL-linear,,cpu_s,143.0
+Table 4,0.5,5,AMXL-linear,,cpu_s,123.0
+Table 4,0.5,10,AMXL-linear,,cpu_s,143.0
+Table 4,,5,AMXL-linear,,peak_MB,367.0
+Table 4,,10,AMXL-linear,,peak_MB,367.0
+Table 4,,,AMXL-linear,,fits,11.0
+Table 4,0.2,5,AMXL-quadratic,,cpu_s,200.0
+Table 4,0.2,10,AMXL-quadratic,,cpu_s,173.0
+Table 4,0.5,5,AMXL-quadratic,,cpu_s,144.0
+Table 4,0.5,10,AMXL-quadratic,,cpu_s,166.0
+Table 4,,5,AMXL-quadratic,,peak_MB,367.0
+Table 4,,10,AMXL-quadratic,,peak_MB,372.0
+Table 4,,,AMXL-quadratic,,fits,11.0
+Table A.2,0.2,,training,,beta_TT_mean,-0.536
+Table A.2,0.2,,training,,beta_TT_sd,0.273
+Table A.2,0.2,,training,,eta_TT_q025,-0.292
+Table A.2,0.2,,training,,eta_TT_q975,0.115
+Table A.2,0.2,,training,,beta_POI_mean,0.185
+Table A.2,0.2,,training,,beta_POI_sd,0.229
+Table A.2,0.2,,training,,eta_POI_q025,-0.089
+Table A.2,0.2,,training,,eta_POI_q975,0.197
+Table A.2,0.2,,development,,beta_TT_mean,-0.562
+Table A.2,0.2,,development,,beta_TT_sd,0.291
+Table A.2,0.2,,development,,eta_TT_q025,-0.308
+Table A.2,0.2,,development,,eta_TT_q975,0.117
+Table A.2,0.2,,development,,beta_POI_mean,0.195
+Table A.2,0.2,,development,,beta_POI_sd,0.234
+Table A.2,0.2,,development,,eta_POI_q025,-0.085
+Table A.2,0.2,,development,,eta_POI_q975,0.235
+Table A.2,0.2,,test,,beta_TT_mean,-0.545
+Table A.2,0.2,,test,,beta_TT_sd,0.258
+Table A.2,0.2,,test,,eta_TT_q025,-0.295
+Table A.2,0.2,,test,,eta_TT_q975,0.108
+Table A.2,0.2,,test,,beta_POI_mean,0.201
+Table A.2,0.2,,test,,beta_POI_sd,0.238
+Table A.2,0.2,,test,,eta_POI_q025,-0.087
+Table A.2,0.2,,test,,eta_POI_q975,0.222
+Table A.2,0.2,,all,,beta_TT_mean,-0.543
+Table A.2,0.2,,all,,beta_TT_sd,0.274
+Table A.2,0.2,,all,,eta_TT_q025,-0.295
+Table A.2,0.2,,all,,eta_TT_q975,0.115
+Table A.2,0.2,,all,,beta_POI_mean,0.19
+Table A.2,0.2,,all,,beta_POI_sd,0.232
+Table A.2,0.2,,all,,eta_POI_q025,-0.088
+Table A.2,0.2,,all,,eta_POI_q975,0.214
+Table A.2,0.5,,training,,beta_TT_mean,-0.536
+Table A.2,0.5,,training,,beta_TT_sd,0.377
+Table A.2,0.5,,training,,eta_TT_q025,-0.73
+Table A.2,0.5,,training,,eta_TT_q975,0.288
+Table A.2,0.5,,training,,beta_POI_mean,0.177
+Table A.2,0.5,,training,,beta_POI_sd,0.292
+Table A.2,0.5,,training,,eta_POI_q025,-0.223
+Table A.2,0.5,,training,,eta_POI_q975,0.492
+Table A.2,0.5,,development,,beta_TT_mean,-0.556
+Table A.2,0.5,,development,,beta_TT_sd,0.385
+Table A.2,0.5,,development,,eta_TT_q025,-0.771
+Table A.2,0.5,,development,,eta_TT_q975,0.293
+Table A.2,0.5,,development,,beta_POI_mean,0.198
+Table A.2,0.5,,development,,beta_POI_sd,0.3
+Table A.2,0.5,,development,,eta_POI_q025,-0.213
+Table A.2,0.5,,development,,eta_POI_q975,0.589
+Table A.2,0.5,,test,,beta_TT_mean,-0.551
+Table A.2,0.5,,test,,beta_TT_sd,0.353
+Table A.2,0.5,,test,,eta_TT_q025,-0.738
+Table A.2,0.5,,test,,eta_TT_q975,0.27
+Table A.2,0.5,,test,,beta_POI_mean,0.199
+Table A.2,0.5,,test,,beta_POI_sd,0.302
+Table A.2,0.5,,test,,eta_POI_q025,-0.218
+Table A.2,0.5,,test,,eta_POI_q975,0.555
+Table A.2,0.5,,all,,beta_TT_mean,-0.543
+Table A.2,0.5,,all,,beta_TT_sd,0.374
+Table A.2,0.5,,all,,eta_TT_q025,-0.738
+Table A.2,0.5,,all,,eta_TT_q975,0.287
+Table A.2,0.5,,all,,beta_POI_mean,0.185
+Table A.2,0.5,,all,,beta_POI_sd,0.295
+Table A.2,0.5,,all,,eta_POI_q025,-0.221
+Table A.2,0.5,,all,,eta_POI_q975,0.534

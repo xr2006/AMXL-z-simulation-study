@@ -1,0 +1,2 @@
+$ estimate_mnl_mxl.py --model MNL-start --dataset noise20 --C 5
+[MNL-start noise20_C5] converged=True  LL=-4053.15  -> mnl_start_noise20_C5.csv

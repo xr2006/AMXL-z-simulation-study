@@ -1,0 +1,10 @@
+# Tested with Python 3.11.13 on macOS (Apple M2 Pro; x86_64 conda build).
+# Newer versions should work; the results in results/ were produced with exactly these.
+numpy==1.26.4
+pandas==3.0.5
+scipy==1.17.1
+cvxpy==1.7.5
+clarabel==0.11.1
+xlogit==0.2.7
+torch==2.2.2
+matplotlib==3.11.1
